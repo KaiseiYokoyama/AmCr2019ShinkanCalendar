@@ -1,0 +1,53 @@
+/* body {
+  width: 600px;
+  height: 700px;
+} */
+
+nav {
+  box-shadow: none;
+  font-family: Menlo;
+}
+
+header {
+  background-color: #ee6e73;
+  color: white;
+  padding: 20px 0;
+}
+
+/*
+.month {
+  font-size: 40px
+}
+
+.year {
+  font-size: 100px
+}
+*/
+
+.selector {
+  width: 80vw;
+  /* height: 10vh; */
+}
+
+.selector i {
+  font-size: 80px;
+  color: #e0e0e0;
+}
+
+.selector .date {
+  padding: 10px 0;
+  color: #757575;
+}
+
+.selector .date .month {
+  font-size: 25px;
+}
+
+.calendar .circled {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.calendar .circled.teal {
+  color: white;
+}
