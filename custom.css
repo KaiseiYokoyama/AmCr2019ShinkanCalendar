@@ -9,7 +9,6 @@ nav {
 }
 
 header {
-  background-color: #fafbfc;
   padding: 20px 0;
 }
 
@@ -22,6 +21,18 @@ header {
   font-size: 100px
 }
 */
+
+.event_description {
+  margin: 0 20px;
+  padding: 10px 0;
+  background-color: rgb(244, 245, 246);
+  border-left: #ee6e73 solid 3px;
+}
+
+.event_description ul.collection, .event_description ul.collection li.collection-item  {
+  border: none;
+  background-color: inherit;
+}
 
 .selector {
   width: 80vw;
@@ -42,16 +53,16 @@ header {
   font-size: 25px;
 }
 
-.calendar .circled {
+.circled {
   padding: 10px;
   border-radius: 5px;
 }
 
-.calendar .circled.digit {
+.circled.digit {
   padding-right: 14px;
   padding-left: 14px;
 }
 
-.calendar .circled.red, .calendar .circled.blue {
+.circled.red, .circled.blue {
   color: white;
 }
