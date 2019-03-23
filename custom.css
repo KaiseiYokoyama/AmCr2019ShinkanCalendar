@@ -34,22 +34,22 @@ header {
   background-color: inherit;
 }
 
-.selector {
+.calendar-title {
   width: 80vw;
   /* height: 10vh; */
 }
 
-.selector i {
+.calendar-title i {
   font-size: 80px;
   color: #e0e0e0;
 }
 
-.selector .date {
+.calendar-title .date {
   padding: 10px 0;
   color: #757575;
 }
 
-.selector .date .month {
+.calendar-title .date .month {
   font-size: 25px;
 }
 
