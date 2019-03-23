@@ -47,6 +47,11 @@ header {
   border-radius: 5px;
 }
 
-.calendar .circled.teal {
+.calendar .circled.digit {
+  padding-right: 14px;
+  padding-left: 14px;
+}
+
+.calendar .circled.red, .calendar .circled.blue {
   color: white;
 }
