@@ -22,14 +22,14 @@ header {
 }
 */
 
-.event_description {
+.event-description {
   margin: 0 20px;
   padding: 10px 0;
   background-color: rgb(244, 245, 246);
   border-left: #ee6e73 solid 3px;
 }
 
-.event_description ul.collection, .event_description ul.collection li.collection-item  {
+.event-description ul.collection, .event-description ul.collection li.collection-item  {
   border: none;
   background-color: inherit;
 }
